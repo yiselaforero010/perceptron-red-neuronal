@@ -36,7 +36,6 @@ El Perceptrón es el modelo más básico de red neuronal artificial. Este proyec
 ## 🛠️ Requisitos
 
 - MATLAB R2020 o superior
-- Toolbox: **Neural Network Toolbox** *(si aplica)*
 
 ---
 
