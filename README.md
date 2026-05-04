@@ -54,7 +54,8 @@ El Perceptrón es el modelo más básico de red neuronal artificial. Este proyec
 Proyecto desarrollado en equipo — Laboratorio de Inteligencia Artificial.
 
 - Yisela Forero
-- *(compañeros del equipo)*
+- Andres Diaz
+- Johan Sierra
 
 ---
 
